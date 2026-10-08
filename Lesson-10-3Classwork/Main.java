@@ -14,7 +14,7 @@ class Main {
   /*
       Problem 1:
       Write a function groupSavings that takes number of tickets wanting
-      to purchase. Return the total cost by apply the following discount:
+      to purchase. Return the total cost by apply the following discount:.
       1 to 8 tickets  : each ticket cost $11,
       9 to 16 tickets : each ticket cost $10.50
       over 16 tickts  : each ticket cost $8.50
