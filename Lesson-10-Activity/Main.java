@@ -5,7 +5,7 @@
 //
 
 
-    // Challenge 1: GPA Calculation
+    // Challenge 1: GPA Calculation.
 // Challenge 2:
 // Write a function "isGraduating" that accepts the grade level and number of credits earned
 // that returns the boolean value TRUE if a student is a Senior and has 44 or more credits,
